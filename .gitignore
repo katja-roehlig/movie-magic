@@ -1,0 +1,17 @@
+# Python-Zwischendateien (deine eigentliche Frage)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Deine virtuelle Umgebung (sehr wichtig!)
+.venv/
+venv/
+env/
+
+# VS-Code spezifische Einstellungen
+.vscode/
+
+# Betriebssystem-Müll
+.DS_Store
+Thumbs.db
