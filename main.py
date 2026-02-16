@@ -1,7 +1,7 @@
 import statistics
 import matplotlib.pyplot as plt
-import movie_storage_sql as storage
-import api_requests as req
+from movie_storage import movie_storage_sql as storage
+import api.api_handler as req
 import generating_webpage as webpage
 
 

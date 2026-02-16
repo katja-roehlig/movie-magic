@@ -1,5 +1,5 @@
 from sqlalchemy import create_engine, text
-import queries
+import movie_storage.queries as queries
 
 
 DB_URL = "sqlite:///data/movies.db"

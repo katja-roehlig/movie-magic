@@ -1,4 +1,4 @@
-import movie_storage_sql as storage
+import movie_storage.movie_storage_sql as storage
 
 
 def get_html_string_for_one_movie(movie):

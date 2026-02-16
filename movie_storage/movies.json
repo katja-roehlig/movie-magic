@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Pretty Woman",
+        "rating": 10,
+        "year of release": 1990
+    },
+    {
+        "title": "Inception",
+        "rating": 9.2,
+        "year of release": 2010
+    },
+    {
+        "title": "Forrest Gump",
+        "rating": 9.3,
+        "year of release": 1994
+    },
+    {
+        "title": "Soul",
+        "year of release": 2020,
+        "rating": 10.0
+    },
+    {
+        "title": "Billy Elliot",
+        "rating": 8.5,
+        "year of release": 2000
+    },
+    {
+        "title": "Philadelphia",
+        "rating": 8,
+        "year of release": 1993
+    },
+    {
+        "title": "Stirb langsam",
+        "rating": 5.4,
+        "year of release": 1988
+    },
+    {
+        "title": "Saturday Night Fever",
+        "rating": 7.2,
+        "year of release": 1977
+    },
+    {
+        "title": "Das Dschungelbuch",
+        "rating": 8.1,
+        "year of release": 1994
+    },
+    {
+        "title": "Grease",
+        "rating": 5.5,
+        "year of release": 1978
+    },
+    {
+        "title": "Die Kinder des Monsieur Matthieu",
+        "rating": 9,
+        "year of release": 2004
+    },
+    {
+        "title": "Titanic",
+        "rating": 3.5,
+        "year of release": 1997
+    }
+]

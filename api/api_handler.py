@@ -1,10 +1,10 @@
 import requests
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 
 
-load_dotenv()
-API_KEY = os.getenv("API_Key")
+load_dotenv(find_dotenv())
+API_KEY = os.getenv("API_KEY")
 
 
 def get_movie_info_per_title(title):
